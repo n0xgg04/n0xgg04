@@ -56,8 +56,7 @@
 
 ## Spotify🎶  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&cover_image=true&theme=default&bar_color=00ff00)](https://open.spotify.com/user/31zbsnqzu2gls7wgc6ifadqci74a?si=SpF9mh4_Rha_86aUF4g25A&utm_source=copy-link)
-  
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31zbsnqzu2gls7wgc6ifadqci74a&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31zbsnqzu2gls7wgc6ifadqci74a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=false)]]
 
 <br/>  
 
