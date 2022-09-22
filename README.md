@@ -53,11 +53,6 @@
 <br/>  
 
  
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&cover_image=true&theme=default&bar_color=00ff00)](https://github.com/kittinan/spotify-github-profile)
   
