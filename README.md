@@ -64,3 +64,4 @@
   
 
 <br/>  
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=n0xgg04)
