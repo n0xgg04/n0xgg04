@@ -24,7 +24,7 @@
 ## Languages 📖  
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,python&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,python&perline=6)]()
 
 </br>
 
@@ -60,6 +60,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&redirect=true)
 
 <br/>  
-<img align="right" alt="Coding" width="400" src="add your link 
-  here">
+
 
