@@ -3,7 +3,7 @@
 </div>  
   
 <div align="center">
-<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/popular-programming-languages.png" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" align="center" style="width: 100%" />
 </div>  
 
 ## <div align="center">About me</div>  
@@ -14,21 +14,18 @@
 
 - <div align="center">😚I love programming </div>  
   
+<div align="center">
 
-- <div align="center">😜I want to be a web developer </div>  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+dev)](https://github.com/n0xgg04)
+
+ </div>  
   
 
 ## Languages 📖  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-</div>  
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,python&perline=6)](https://skillicons.dev)
+
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0xgg04&layout=compact)](https://github.com/n0xgg04/github-readme-stats)
@@ -63,4 +60,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&redirect=true)
 
 <br/>  
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
 
