@@ -27,6 +27,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>  
 </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0xgg04&layout=compact)](https://github.com/n0xgg04/github-readme-stats)
 
 ## Connect with me📱  
@@ -58,9 +59,13 @@
 
 <br/>  
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zbsnqzu2gls7wgc6ifadqci74a)
+
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=n0xgg04&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
+
