@@ -60,10 +60,6 @@
 <br/>  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&cover_image=true&theme=default&bar_color=00ff00)](https://github.com/kittinan/spotify-github-profile)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=n0xgg04&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
