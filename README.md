@@ -20,14 +20,16 @@
 
 ## Languages 📖  
 
+<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,python&perline=6)]()
 
 </br>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0xgg04&layout=compact)](https://github.com/n0xgg04/github-readme-stats)
 
-
+</div>
 <img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/w8ZJLtJbmuph.gif" alt="TuanAnh"/>
 
 ## Connect with me📱  
