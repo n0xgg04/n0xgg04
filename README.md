@@ -16,7 +16,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+dev)](https://github.com/n0xgg04)
 
  </div>  
-  
 
 ## Languages 📖  
 
@@ -28,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0xgg04&layout=compact)](https://github.com/n0xgg04/github-readme-stats)
 
 
-<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/w8ZJLtJbmuph.gì" alt="TuanAnh"/>
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/w8ZJLtJbmuph.gif" alt="TuanAnh"/>
 
 ## Connect with me📱  
   
