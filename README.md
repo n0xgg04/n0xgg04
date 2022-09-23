@@ -36,16 +36,22 @@
 <a href="https://www.facebook.com/anhkyt123" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/noxaov" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/n0xgg04" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/anhmon" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:dulieu.vblc@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
+<a href="https://t.me/n0xgg04">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://m.me/n0xgg04">
+<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"/>
+</a>
 
 <br/>  
 
@@ -57,5 +63,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&redirect=true)
 
 <br/>  
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=n0xgg04&style=for-the-badge)
 
+</div>
