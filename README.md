@@ -64,9 +64,12 @@
 
 ## Spotify🎶  
 
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31zbsnqzu2gls7wgc6ifadqci74a&redirect=true)
 
+  </div>
+  
 <br/>  
 <div align="center">
 
