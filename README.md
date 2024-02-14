@@ -36,11 +36,12 @@
 ### My production
 - [Nox Mod Skin](https://play.google.com/store/apps/details?id=com.nox.aov.std&hl=vi)
   [(Nox Mod Skin PRO](https://play.google.com/store/apps/details?id=com.noxinfinity.modskin&hl=vi)
-- BKX Chatbot
+- [BKX Chatbot](https://www.facebook.com/bkx.conmmunity/)
 - [MemeSounds](https://play.google.com/store/apps/details?id=com.noxinfinity.memevotreevc&hl=vi)
 - [AOV Wallpapers](https://play.google.com/store/apps/details?id=com.noxinfinity.wallpapers&hl=vi)
 - [Nox Infinity](https://noxinfinity.tech)
-- Liqi News (Socials App for AOV Players) - pending
+- [Liqi News](https://play.google.com/store/apps/details?id=com.noxinfinity.liqi.news)
+- [NoxTik - Download video from Tiktok, Youtube,...](https://play.google.com/store/apps/details?id=com.noxinfinity.noxtik)
 - Game Mod Installer - pending
   
 
