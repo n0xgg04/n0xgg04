@@ -18,7 +18,7 @@
 
  </div>  
 
-## Languages 📖  
+## Skills 📖  
 
 <div align="center">
 
