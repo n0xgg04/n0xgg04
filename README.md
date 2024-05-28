@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,typescript,javascript,react,nextjs,redux,tailwind,nodejs,express,laravel,golang,redis,flutter&perline=6)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,typescript,javascript,react,nextjs,redux,tailwind,nodejs,express,laravel,golang,redis,vue,flutter&perline=6)]()
 
 </br>
 
@@ -51,7 +51,7 @@
 <a href="https://stackoverflow.com/users/linzo1" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/anhkyt123" target="_blank">
+<a href="https://www.facebook.com/n0xgg04" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/n0xgg04" target="_blank">
