@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/w8ZJLtJbmuph.gif" alt="TuanAnh"/>
 
 
-### My production
+### My public project
 - [Nox Mod Skin](https://play.google.com/store/apps/details?id=com.nox.aov.std&hl=vi)
   [(Nox Mod Skin PRO](https://play.google.com/store/apps/details?id=com.noxinfinity.modskin&hl=vi)
 - [BKX Chatbot](https://www.facebook.com/bkx.conmmunity/)
@@ -42,7 +42,7 @@
 - [Nox Infinity](https://noxinfinity.tech)
 - [Liqi News](https://play.google.com/store/apps/details?id=com.noxinfinity.liqi.news)
 - [NoxTik - Download video from Tiktok, Youtube,...](https://play.google.com/store/apps/details?id=com.noxinfinity.noxtik)
-- Game Mod Installer - pending
+- [S-Learn](https://play.google.com/store/apps/details?id=com.noxinfinity.luyenthiptit)
   
 
 ## Connect with me📱  
