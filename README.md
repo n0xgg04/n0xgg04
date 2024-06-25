@@ -7,7 +7,7 @@
   
 <div style="display:flex;flex-direction:row;">
   
-<img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif?raw=true" alt="GO"/>
+<img align="left" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif?raw=true" alt="GO"/>
 
 <div>
   
