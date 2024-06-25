@@ -26,7 +26,10 @@
 
  </div>  
 
-## Skills 📖  
+ </br>
+</hr>
+
+## <div align="center">Skills 📖  </div>  
 
 <div align="center">
 
