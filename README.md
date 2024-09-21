@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,typescript,javascript,react,nextjs,redux,tailwind,nodejs,express,laravel,golang,redis,vue,flutter&perline=6)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,typescript,javascript,react,nextjs,redux,tailwind,nodejs,express,laravel,golang,redis,vue,flutter, docker, redis, nestjs&perline=6)]()
 
 </br>
 
