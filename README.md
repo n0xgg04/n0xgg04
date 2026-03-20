@@ -11,11 +11,11 @@
 
 <div>
   
-- <div align="center">🔭 My name is Luong Tuan Anh</div>  
+- <div align="center">🔭 I'm Tuan Anh</div>  
   
-- <div align="center">🏫I am studying at  Posts & Telecoms Institute of Technology</div>  
+- <div align="center">Software Developer</div>  
   
-- <div align="center">😚I love programming </div> 
+- <div align="center">Application builder </div> 
 
 </div>
 </div>
