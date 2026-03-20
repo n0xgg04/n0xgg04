@@ -10,19 +10,16 @@
 <img align="left" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif?raw=true" alt="GO"/>
 
 <div>
-  
+  </br>
 - <div align="center">🔭 I'm Tuan Anh</div>  
   
-- <div align="center">Software Developer</div>  
-  
-- <div align="center">Application builder </div> 
 
 </div>
 </div>
   
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+android+app+developer)](https://github.com/n0xgg04)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Software+Engineer;Application+builder)](https://github.com/n0xgg04)
 
  </div>  
 
